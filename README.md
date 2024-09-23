@@ -1,6 +1,3 @@
-# AdityaKrishnaProjects.github.io
-## THIS IS TEXT 
+##### Preface
 
-THIS IS TEXT 
-
-### THIS IS NOT TEXT 
+This is the current state of my personal website. 
