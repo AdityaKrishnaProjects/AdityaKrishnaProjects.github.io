@@ -1,3 +1,3 @@
 ##### Preface
 
-This is the current state of my personal website. 
+This project holds my personal website. 
