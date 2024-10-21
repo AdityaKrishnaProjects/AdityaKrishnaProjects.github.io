@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am interested in finding pursuits where:
+1. I can push myself and do things that I didn't think I was capable of, in essence, pursuits where trying your hardest matters and you often have more to give than you think
+2. There is aesthetic quality that I appreciate in the process of trying to master the pursuit
+3. The pursuit becomes more interesting the more you invest in it
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Thus far I have found that researching language, rock climbing, programming, and melee fit this criteria. Please reach out to me if you identify any others.

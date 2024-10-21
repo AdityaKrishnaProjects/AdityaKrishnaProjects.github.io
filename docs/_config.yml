@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Aditya Krishna
-email: adityak@uchicago.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is a website that will document Aditya Krishna's exploration and 
   writings in linguistics, mathematics, computer science, philosophy, 
