@@ -2,7 +2,7 @@ resume attached: [here](assets\Aditya-Krishna-Resume-Final-One-Page-Oct-8-2024.p
 
 linguistics: 
 
-[Handling of Immovable Intermediate Constituents in Top Down Layered Syntax](assets\Aditya_Krishna_Phillips_Exploration.pdf)
+tentative: [Handling of Immovable Intermediate Constituents in Top Down Layered Syntax](assets\Aditya_Krishna_Phillips_Exploration.pdf)
 
 projects: 
 
