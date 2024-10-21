@@ -1,10 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
----
-
 resume attached: [here](assets\Aditya-Krishna-Resume-Final-One-Page-Oct-8-2024.pdf)
 
 linguistics: 
