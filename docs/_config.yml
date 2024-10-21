@@ -29,7 +29,7 @@ url: "https://adityakrishnaprojects.github.io/" # the base hostname & protocol f
 github_username:  AdityaKrishnaProjects
 
 # Build settings
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
