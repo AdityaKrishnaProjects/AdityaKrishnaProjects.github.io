@@ -3,7 +3,7 @@ main:
   - title: "Front Page"
     url: https://adityakrishnaprojects.github.io/
   - title: "About"
-    url: https://adityakrishnaprojects.github.io/about
+    url: /about.md
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
