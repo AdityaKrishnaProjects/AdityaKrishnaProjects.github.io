@@ -1,5 +1,6 @@
 ---
-layout: "home"
+layout: home
+author_profile: true
 ---
 
 resume attached: [here](assets\Aditya-Krishna-Resume-Final-One-Page-Oct-8-2024.pdf)
