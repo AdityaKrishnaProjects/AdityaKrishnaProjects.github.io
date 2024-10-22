@@ -1,3 +1,7 @@
+---
+layout: "default"
+---
+
 I am interested in finding pursuits where:
 1. I can push myself and do things that I didn't think I was capable of, in essence, pursuits where trying your hardest matters and you often have more to give than you think
 2. There is aesthetic quality that I appreciate in the process of trying to master the pursuit
