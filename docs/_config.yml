@@ -204,7 +204,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago
 
 
 # Pagination with jekyll-paginate
@@ -266,7 +266,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-  
+
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
