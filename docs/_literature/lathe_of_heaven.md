@@ -1,6 +1,6 @@
 ---
 layout: "single"
-permalink: /literature/lathe_of_heaven/
+permalink: /literature/Lathe_of_Heaven/
 ---
 
-Thoughts on lathe of heaven
+Thoughts on Lathe of Heaven. 

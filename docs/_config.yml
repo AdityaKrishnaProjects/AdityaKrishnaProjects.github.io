@@ -321,7 +321,7 @@ defaults:
   # _literature
   - scope:
       path: ""
-      type: pages
+      type: literature
     values:
       layout: single
       toc: true
