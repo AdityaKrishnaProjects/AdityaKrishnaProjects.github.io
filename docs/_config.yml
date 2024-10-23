@@ -309,3 +309,21 @@ defaults:
       type: pages
     values:
       layout: single
+
+# Adding collection that will house thoughts on literature
+
+collections:
+  literature:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  # _literature
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      toc: true
+      toc_label: "Table of Contents"
+      toc_icon:
