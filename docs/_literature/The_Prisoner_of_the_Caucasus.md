@@ -4,11 +4,9 @@ title: "The Prisoner of the Caucasus"
 permalink: /literature/The_Prisoner_of_the_Caucasus/
 ---
 
-### Preface
-
 The following are my thoughts on *The Prisoner of the Caucasus*, by Lev Nikolayevich Tolstoy. These notes are subject to change in the future. 
 
-### Background Information
+## Background Information
 
 Tolstoy began to try to simplify his writing as he defined a standard that art should either:
 1. Expose religious truth
@@ -26,6 +24,7 @@ Gorky believes within this symbol, Tolstoy’s tendency towards artistic and inc
 
 Hadji Murat represents a turn towards the thistle and its dignified defense of its life and values as the correct way for man to live. Not a sinner converted, or a holy fool, or a self conscious truth seeker, or sensually enslaved, or completely innocent, rather someone who is loyal to those dear to him, a natural warrior who goes about his life without clinging to any path.
 
+## Plot Summary
 ### Chapters
 #### I & II
 
@@ -51,4 +50,8 @@ They try to escape but are held back by Kostylin being unable to go with speed o
 
 #### VI
 
-Maybe the most beautiful description of love and humanity between two strangers I’ve read. Amazing writing that depicts a man who does what he thinks is right and is rewarded.
+Zhilin is able to escape, even though his conditions are made extremely dire by the Tartar's who captured him. What follows is maybe the most beautiful description of love and humanity I’ve read. Amazing writing that depicts a man who attempts to stick to what he thinks is right, and is ultimately rewarded. 
+
+## Final Thoughts
+
+The story contains an eery parallel to the Tartar thistle that Hadji Murat was based upon. Regardless of what one's beliefs are regarding Tolstoy's first criteria for good art, this story gets as close to satisfying the second criteria as I could imagine any written work could. 
