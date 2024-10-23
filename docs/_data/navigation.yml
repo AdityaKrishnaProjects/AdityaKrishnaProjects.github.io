@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Front Page"
-    url: https://adityakrishnaprojects.github.io/
   - title: "About"
-    url: /about
+    url: /_pages/about.md/
+  - title: "Contact Me"
+    url: 
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
