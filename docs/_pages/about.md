@@ -1,5 +1,6 @@
 ---
-layout: "default"
+layout: "single"
+permalink: /about/
 ---
 
 I am interested in finding pursuits where:
