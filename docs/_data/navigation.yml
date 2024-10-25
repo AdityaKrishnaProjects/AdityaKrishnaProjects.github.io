@@ -4,7 +4,7 @@ main:
     url: /about/
   - title: "Contact Me"
     url: /contact/
-  - title: "Thoughts on Literature"
+  - title: "Notes on Literature"
     url: /literature/
   # - title: "Sample Collections"
   #   url: /collection-archive/

@@ -4,7 +4,7 @@ title: "The Prisoner of the Caucasus"
 permalink: /literature/The_Prisoner_of_the_Caucasus/
 ---
 
-The following are my thoughts on *The Prisoner of the Caucasus*, by Lev Nikolayevich Tolstoy. These notes are subject to change in the future. 
+The following are my notes on *The Prisoner of the Caucasus*, by Lev Nikolayevich Tolstoy. These notes are subject to change in the future. 
 
 ## Background Information
 
