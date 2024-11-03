@@ -6,7 +6,7 @@ permalink: /literature/The_Prisoner_of_the_Caucasus/
 
 The following are my notes on *The Prisoner of the Caucasus*, by Lev Nikolayevich Tolstoy. These notes are subject to change in the future. 
 
-## Background Information
+## General Background Information
 
 Tolstoy began to try to simplify his writing as he defined a standard that art should either:
 1. Expose religious truth
