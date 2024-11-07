@@ -4,9 +4,7 @@ title: "The Death of Ivan Ilyich"
 permalink: /literature/The_Death_of_Ivan_Ilyich/
 ---
 
-## Preface
-
-This note serves as the main reference point for notes about specific literature. The purpose of this note is specified in [[Style Guide for Notes on Literature]]. These notes should be referenced when referencing literature in other writings. 
+The following are my notes on *The Death of Ivan Ilyich*, by Lev Nikolayevich Tolstoy. These notes are subject to change in the future. 
 
 ## General Background Information
 
