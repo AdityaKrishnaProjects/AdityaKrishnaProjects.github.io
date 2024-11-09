@@ -6,7 +6,7 @@ permalink: /literature/The_Lathe_of_Heaven/
 
 The following are my notes on *The Lathe of Heaven*, by Ursula K. LeGuin. These notes are subject to change in the future. 
 
-## Background Information
+## Relevant Background Information
 
 The title seemed immediately odd. Later in the text it is quoted as an epigraph to start chapter 3: 
 
