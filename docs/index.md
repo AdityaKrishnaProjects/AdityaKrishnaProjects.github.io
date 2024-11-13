@@ -12,8 +12,12 @@ tentative: [Handling of Immovable Intermediate Constituents in Top Down Layered 
 
 projects: 
 
+completed:
+
 [personal website](https://github.com/AdityaKrishnaProjects/AdityaKrishnaProjects.github.io)
 
 [python documentation exploration](https://github.com/AdityaKrishnaProjects/Python_Documentation_Exploration)
+
+in progress:
 
 [ASM Decompilation](https://github.com/AdityaKrishnaProjects/TrainingMode-More-Falco)
