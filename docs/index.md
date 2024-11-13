@@ -20,4 +20,6 @@ permalink: /
 
 #### In Progress
 
+[LeetCode Solutions](https://github.com/AdityaKrishnaProjects/LeetCode-Solutions)
+
 [ASM Decompilation](https://github.com/AdityaKrishnaProjects/TrainingMode-More-Falco)
