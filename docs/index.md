@@ -4,20 +4,22 @@ author_profile: true
 permalink: /
 ---
 
-resume attached: [here](assets\Aditya-Krishna-Resume-Final-One-Page-Oct-31st-2024.pdf)
+## Resume
 
-linguistics: 
+[Attached Here](assets\Aditya-Krishna-Resume-Final-One-Page-Oct-31st-2024.pdf)
 
-tentative: [Handling of Immovable Intermediate Constituents in Top Down Layered Syntax](assets\Aditya_Krishna_2024_Handling_of_Immovable_Intermediate_Constituents_in_Top_Down_Layered_Syntax.pdf)
+## Linguistics
+### In Progress
 
-projects: 
+[Handling of Immovable Intermediate Constituents in Top Down Layered Syntax](assets\Aditya_Krishna_2024_Handling_of_Immovable_Intermediate_Constituents_in_Top_Down_Layered_Syntax.pdf)
 
-completed:
+## Coding Projects 
+### Completed
 
-[personal website](https://github.com/AdityaKrishnaProjects/AdityaKrishnaProjects.github.io)
+[Personal Website](https://github.com/AdityaKrishnaProjects/AdityaKrishnaProjects.github.io)
 
-[python documentation exploration](https://github.com/AdityaKrishnaProjects/Python_Documentation_Exploration)
+[Python Documentation Exploration](https://github.com/AdityaKrishnaProjects/Python_Documentation_Exploration)
 
-in progress:
+### In Progress
 
 [ASM Decompilation](https://github.com/AdityaKrishnaProjects/TrainingMode-More-Falco)
