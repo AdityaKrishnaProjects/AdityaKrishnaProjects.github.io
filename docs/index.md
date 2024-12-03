@@ -9,7 +9,7 @@ permalink: /
 ### Linguistics
 #### In Progress
 
-[Handling of Immovable Intermediate Constituents in Top Down Layered Syntax](assets\Aditya_Krishna_2024_Handling_of_Immovable_Intermediate_Constituents_in_Top_Down_Layered_Syntax.pdf)
+[Handling of Immovable Intermediate Constituents in Top Down Layered Syntax](assets\pdfs\Motivation_for_Semantic_Involvement_in_Grammaticality.pdf)
 
 ### Coding Projects 
 #### Completed
