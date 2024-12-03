@@ -9,7 +9,7 @@ permalink: /
 ### Linguistics
 #### In Progress
 
-[Handling of Immovable Intermediate Constituents in Top Down Layered Syntax](assets\pdfs\Motivation_for_Semantic_Involvement_in_Grammaticality.pdf)
+[Towards Semantic Well-Formedness as an Aspect of Grammaticality](assets\pdfs\Motivation_for_Semantic_Involvement_in_Grammaticality.pdf)
 
 ### Coding Projects 
 #### Completed
