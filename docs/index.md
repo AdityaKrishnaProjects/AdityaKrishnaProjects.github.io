@@ -9,7 +9,7 @@ permalink: /
 ### Linguistics
 #### In Progress
 
-[Towards Semantic Well-Formedness as an Aspect of Grammaticality](assets\pdfs\Motivation_for_Semantic_Involvement_in_Grammaticality.pdf)
+[Towards Semantic Well-Formedness as an Aspect of Grammaticality](assets\pdfs\Aditya_Krishna_Writing_Sample_Syntax_Semantics_Interface__Semantic_Well_Formedness__2024.pdf)
 
 ### Coding Projects 
 #### Completed
