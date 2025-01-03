@@ -4,7 +4,7 @@ author_profile: true
 permalink: /
 ---
 
-[resume attached here](assets\Aditya-Krishna-Resume-Final-One-Page-Oct-31st-2024.pdf)
+[resume attached here](assets\pdfs\Aditya_Krishna_Resume_December_2024.pdf)
 
 ### Linguistics
 #### In Progress
