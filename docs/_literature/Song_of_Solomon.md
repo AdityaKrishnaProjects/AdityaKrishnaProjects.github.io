@@ -19,9 +19,8 @@ Toni Morrison was skeptical of the idea of muses. She felt it was the artist’s
 She wrote a beautiful description of her late father’s character and belief in her, and said he was her muse. This story came out of her in place of the usual rituals of grief. 
 
 ## Plot Summary
-### Chapters
-#### Part 1
-##### Chapter 1
+### Part 1
+#### Chapter 1
 
 We learn that an insurance agent committed suicide after promising to take a flight South. The note is pleasing and indicates his love for those he leaves behind. 
 
@@ -63,7 +62,7 @@ Macon goes to collect rent from a tenant who is crazed and pleading with God. Th
 
 Macon on his walk home reflects on his emptiness. He walks towards his estranged sister’s house and admires her singing with her child and grandchild. He reflects on his love for her but can not bring himself to speak with them.
 
-##### Chapter 2
+#### Chapter 2
 
 We are introduced to a seen where the Dead children, Lena, First Corinthians and Milkman, are in the car on a weekly ritualized ride. They are going to a lakefront plot because Macon plans on purchasing it and developing into beach houses for colored people. The family thinks this won't work, as they don't think people will be able to afford it. Milkman must go to the bathroom, annoying Macon and accidentally micturates on Lena when she startles him. 
 
@@ -91,7 +90,7 @@ Milkman and Morrison find this explanation empty.
 
 Macon tells Milkman all that is of value to learn is to own. And to have that which you own also own. He thusly tells Milkman from now on he will be learning from him and working with him after school.
 
-##### Chapter 3
+#### Chapter 3
 
 After Milkman starts working with his father he no longer has much time to hang out with Guitar. Nonetheless they find time together. One day they visit a pool hall but the owner Feather drives them away because he knows Milkman is Macon's son. This pool hall is visited by airman of the 332nd fighter group (the Tuskegee airmen). They protest and want to allow Milkman in but Feather is staunch. 
 
@@ -119,7 +118,7 @@ Guitar gets exasperated with Freddie who claims Till deserved to be stomped out 
 
 When they’re drinking Milkman gets plastered and lets loose. After some interrogation Guitar guesses the gist of what is bothering Milkman but they don’t get into specifics. They commiserate about how difficult life is. Guitar agrees to drop Milkman off at Hagar’s. Milkman curses his paternal grandfather for being hapless, much in the same way Macon would.
 
-##### Chapter 4
+#### Chapter 4
 
 We are put into the brain of Milkman at the age of 31. He is now bored with Hagar. He has very much morphed into Macon. He wants to move on with his life and become someone dignified. 
 
@@ -133,7 +132,7 @@ He goes to the barbershop and meets guitar. At the barbershop Hospital Tommy and
 
 Milkman chides Guitar about his lack of consciousness or interests other than going to parties and chasing women. Milkman lashes out but proves Guitar right in that he realizes he doesn't really have any interests.
 
-##### Chapter 5
+#### Chapter 5
 
 After Milkman’s argument with Guitar their relationship improves as they acknowledge each other’s true appearance. Milkman goes over to visit him. 
 
@@ -163,13 +162,13 @@ She then meets a group of 'pickers' or migrants farm workers. Her life goes well
 
 Reba has Hagar and Pilate decides to find Macon. She finds him and he rejects her completely but she stays because she sees Ruth dying of lovelessness. We learn she has drawn this story out to keep Ruth's mind off of Hagar. 
 
-##### Chapter 6
+#### Chapter 6
 
 Milkman and Guitar speak to each other after Hagar's failed murder attempt. Milkman expresses his annoyance with Guitar's constant advice giving. He tells Guitar that they are friends but that there is no trust and he feels that they are growing apart. Guitar lets him in on what he has been up to and why Milkman feels he is not being honest with him. 
 
 Guitar is a part of a group called the Seven Days, for every hate crime committed against a black person, they commit that same crime against a white person. The stated goal is to have balance on the Earth and secure the black population. Milkman is shocked and incredulous. He argues with Guitar to try to change his mind about his endeavor but they are both steadfast in their positions. 
 
-##### Chapter 7
+#### Chapter 7
 
 Milkman talks to Macon about wanting to be free and go his own way. He ends up mentioning the sack that hangs in Pilate's house and Macon is very interested in it. The sack is likely related to the dead man that they killed. 
 
@@ -177,7 +176,7 @@ Macon tells the story of their youth after their father died. They first stayed 
 
 It is now clear Macon thinks the gold is what Pilate keeps in her house. This is almost certainly not what is in the green sack. Macon urged Milkman to take the sack from Pilate if he wants to earn his freedom. 
 
-##### Chapter 8
+#### Chapter 8
 
 Milkman immediately proposes the heist to Guitar. Guitar readily accepts, partly motivated by the fact he needed money to continue the Seven Days’ work.
 
@@ -187,7 +186,7 @@ We learn much of the motivation of Milkman’s choices has been to avoid becomin
 
 Milkman and Guitar become resolute about the plan and steal the tarpaulin, which is lighter than they expect, at night. Pilate watches and wonders what they wanted it for.
 
-##### Chapter 9
+#### Chapter 9
 
 We learn about Corinthians. She and Lena do not marry as they are expected to and effectively spend their time waiting to an eligible bachelor that will never arrive. Corinthians becomes a maid and has a fling with Porter, the same drunk man who pissed out of his window while threatening the town with a shotgun. She resolves to keep seeing him instead of caring about what her family will think. Mr. Porter’s outburst is explained as a result of his work for the Seven Days, especially considering his calendars on the wall. Robert Smith, the man who killer himself is also a part of the Seven Days.
 
@@ -203,8 +202,8 @@ Guitar’s baleful look towards Pilate at the end of the drive is evidence to Mi
 
 We learn that he told on Corinthians and that caused their father to take everything from Corinthians. Lena tells Milkman that the reason for her and her sister's icy glare towards him when he struck Macon was because they knew that Milkman only struck Macon to become the man of the house, not because he really wanted to stand up for them. Milkman completely ignores this and doesn't reflect on what Lena told him. 
 
-#### Part 2
-##### Chapter 10
+### Part 2
+#### Chapter 10
 
 We learn that Milkman has embarked on his trip to get the gold and to get money to get away. Guitar is invested because he wants to mass murder with the Seven Days. We learn about Guitar's ire for Pilate because he believes that only black men have worth. Guitar's reasoning is revealed to be extremely flimsy. 
 
@@ -254,6 +253,6 @@ Guitar heads home after seeing Sweet. He sees Pilate first who knocks him out. H
 
 After they bury him Guitar shoots Pilate, presumably because he thinks they have brought the gold. Milkman can now hear the land, and as a result of this he learns to fly. He mourns Pilate for being the only woman he knew who could fly.
 
-### Final Thoughts
+## Final Thoughts
 
 A great importance is placed on the value of names, true and false. Milkman's father obsessed over posessing land and possessing that which possessed as a love letter to his dead father. Pilate carried the bones of her past with her according to her interpretation of his word. Nothing is monumentally changed by Milkman's turn in character, but he learns the secret of flight by allowing the world in. 

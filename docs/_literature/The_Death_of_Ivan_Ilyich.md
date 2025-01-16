@@ -42,7 +42,8 @@ Gorky believes within this symbol, Tolstoy’s tendency towards artistic and inc
 
 Hadji Murat represents a turn towards the thistle and its dignified defense of its life and values as the correct way for man to live. Not a sinner converted, or a holy fool, or a self conscious truth seeker, or sensually enslaved, or completely innocent, rather someone who is loyal to those dear to him, a natural warrior who goes about his life without clinging to any path.
 
-#### I
+## Plot Summary
+### I
 
 We are introduced to three characters, Ivan Yegorovich Shebek, Fyodor Vasilievich, and Pyotr Ivanovich. Fyodor is introduced as the aggressor in an argument, Ivan a stalwart defender, and Pyotr unconcerned.
 
@@ -68,7 +69,7 @@ Ivan’s wife takes him aside and begins to cry in a private room. Then she conc
 
 He makes it clear that neither Pyotr or Praskovya care about Ivan’s death except that it affects them. Paskovya tells Pyotr about how terribly Ivan suffered before his death, certainly lucidly, and she only tells it as though she suffered. They both feel fear that when they die others will also impassively look upon their suffering.
 
-##### II
+### II
 
 We learn of Ivan Ilyich’s life. He is by all means an ordinary man. Perhaps some people’s conception of a good man. He respect society’s order and becomes an administrator in the government. He makes his share of mistakes but dismisses his consternation over them when he realizes superiors of his made those same mistakes. By all means a man decided by his environment. 
 
@@ -86,7 +87,7 @@ This is obviously not handled well by Praskovya. He buries himself more in his w
 
 He moves and even though his salary increases they are worse off as his cost of living increases disproportionately. His children reach their teenage years and his son is sent to preparatory school by Praskovya to spite Ivan. 
 
-##### III 
+### III 
 
 Ivan Ilyich after 17 years in his post (should be nearing 45, his age when he dies), is extremely dissatisfied with his life as he has not been promoted. He instigates with his superiors and is denied more promotions. He feels it is a great disservice that no one cares to recognize his work. 
 
@@ -98,7 +99,7 @@ His daughter is given the name Lizanka obliquely in the text, and his son Pasha.
 
 Tolstoy calls him out as creating all this to appear as though he is rich. He has one large fight with his wife about his overspending on pastries to please the gentry. This is glossed over. To outside observers him, his wife and daughter are a perfect unit. His son is conveniently left out. 
 
-##### IV 
+### IV 
 
 Ivan Ilyich sustains a bruise when he falls trying to organize his perfect apartment. This pain on the left side of his stomach develops into a heaviness and ill humor that affects his so-called pleasant life.
 
@@ -114,13 +115,13 @@ His condition worsens regardless of he attempts to follow the medicine diligentl
 
 Very astutely, Tolstoy points out that when you have a condition like this, or are in a worse disposition every slight thing that you would typically brush off becomes impossible to deal with. Rather than finding the peace that might aid you, you find reason to disturb your peace in any slight occurrence that you would typically dismiss. 
 
-##### V
+### V
 
 Ivan Ilyich realizes his ghastly figure. His illness is clearly progressing, as both his brother in law and Praskovya can tell. He sees himself and feels total despair. He sees a new doctor who assures him he will get better and temporarily sees his vim return. That night he attempts to feel better but the same pain returns to him. He then despairs and grapples with death. He can't understand how other people who will soon die feel nothing for him. Him now but them later, what's the difference. 
 
 He resolves to see no more doctors and accept death. At this point he realizes that there is no saving him. He hates Praskovya with his whole being for not truly caring about him. 
 
-##### VI
+### VI
 
 Ivan is completely consumed by the thought of death. He recalls and contemplates a classic syllogism about the mortality of man. He reflects that even though he understood it he never applied it to himself. 
 
@@ -128,7 +129,7 @@ He thinks to those unique feelings, or supposedly unique feelings, that he had t
 
 He can’t distract himself with work, and when he finds some distraction in that drawing room he designed it is made explicit that his fall there is what began his illness.
 
-##### VII
+### VII
 
 Everyone in his life is waiting for his death. He feels very little dignity. A butler named Gerasim treats him very well, unlike most others in his life.
 
@@ -136,31 +137,31 @@ Gerasim alone refuses to lie to Ivan. He pities him and treats him as though he 
 
 We can not blame anyone but Ivan for his situation, yet the kindness Gerasim shows him is still beautiful and moving.
 
-##### VIII
+### VIII
 
 More doctors come to see him. It’s all a big show. He is beginning to be fed up and lucid about the spectacle.
 
 He sees a young boy beaten by his father when Praskovya invites the father and mother over. He falls in a silence and can’t take the company of people that aim to avoid his presence and death. Then his family leave for a play.
 
-##### IX
+### IX
 
 He sends away everyone, even Gerasim. Alone he weeps. He reckons with God wholeheartedly, and stops at the thought that perhaps he had lived his life incorrectly.
 
 He dismisses this as he feels he lived as he light to. Yet still, in his consciousness he feels fondness only for his youth.
 
-##### X
+### X
 
 He denies his life being lived wrong.
 
-##### XI
+### XI
 
 He struggles with his life not being well lived. His wife has him do one last ritual, and he goes through with it. After doing so he can no longer allow himself to live this lie and he thrashes and screams endlessly.
 
-##### XII
+### XII
 
 He dies for his family. He accepts his life was poorly lived and realizes the correct thing to do is to accept death and leave the Earth.
 
-##### Final Thoughts
+## Final Thoughts
 
 Ivan Ilyich’s death began when he was born, and again as a result of his obsession with being of high class in and in the right order, and again as a result of his organizing his life as such and falling, and ends in his death. 
 

@@ -17,9 +17,7 @@ This gives the impression that being measured and not aiming too far above one's
 A translation by David Chai given in *Nothingness, Being, and Dao: Ontology and Cosmology in the Zhuangzi* of  天鈞 (translated in LeGuin as "lathe of heaven") is heavenly equilibrium. A very weighty philosophical concept that relates to the way all things start and end equal in Daoism. 
 
 ## Plot Summary
-### Chapters
-
-#### Chapter 1
+### Chapter 1
 
 Very interesting. Pretty well written first couple of paragraphs describing the nature of the jellyfish. Entrusting its entire being to the ocean. Then that same jellyfish can be ousted by the waves to the sand. 
 
@@ -27,7 +25,7 @@ This seems to be the nightmare from which our main character wakes up from. The 
 
 Vaguely dystopian society as kids need nutrition but can't get it because of bureaucracy. 
 
-#### Chapter 2
+### Chapter 2
 
 It seems every person gets an allotment of pep pills and sleeping pills. Also global warming has destroyed the environment. Clearly capitalist dystopia. 
 
@@ -37,7 +35,7 @@ Name of the patient is George Orr. He is being put under dream hypnosis using a 
 
 Horses have been crowded out by people. George's dream caused the picture of the mountain in the office to become a horse. The doctor had a moment where he remembered the mountain but quickly was set in the reality that it had always been the horse. 
 
-#### Chapter 3
+### Chapter 3
 
 Mistranslation of a Zhuang Zhou quote. Lathe of heaven, the title is an obvious anachronism as in ancient China lathes hadn't been invented. The real translation is closer to heavenly equilibrium. Regardless the quotation is intended to impart the virtue of accepting the limitations of that which is attainable (in knowledge and in life). 
 
@@ -47,11 +45,11 @@ The metaphor used at the start of the book is that George is looking for a key t
 
 George felt seen by the doctor because he assumes the doctor is aware of his dreams power to change reality. This seemed to alleviate the negative sensations the people around him in the train have. 
 
-#### Chapter 4
+### Chapter 4
 
 He meets with a lawyer after work. The structure the lawyer is in is a repurpose parking building. The lawyer is a very typical dominant arrogant person, she uses a lot of insect imagery to make them seem calculating, cold and predatory. He expostulates with the lawyer to help him stop Haber from using his dreams to affect reality. His latest dream gave him a cabin in the woods, except it also made it such that the woods enclosed cabins, which it didn't previously. 
 
-#### Chapter 5
+### Chapter 5
 
 Haber is a plain and simple utilitarian. He is quoted as not believing morality even means anything unless it is a measured good for others. 
 
@@ -59,7 +57,7 @@ Haber is "furious" with George for George's increasing resistance to Haber. Indi
 
 The lawyer is present and George dreams a dream that makes 6 billion people cease to be. Haber notices that the lawyer is definitely aware of the reality split that occurs and briefly considers all manner of restraining her so his research can continue with George (including violence). She plays straight well enough even when George calls out that his dream changed reality and that the new reality is false to where Haber let’s them both go. Haber drinks to the ‘better world’ he is creating.
 
-#### Chapter 6
+### Chapter 6
 
 George has set a meeting with the lawyer Lelache, but she refuses to disclose the contents of Dr. Haber's input on George's dream. 
 
@@ -75,7 +73,7 @@ Le Guin goes even further and says this is possible because of someone having tw
 
 She references brave new world here to refer to the world that Haber creates. Another show that she thinks his Utopic vision is really dystopia. 
 
-#### Chapter 7
+### Chapter 7
 
 Lelache finds George hiding in his cabin from Haber. She is basically completely in love with him as she finally sees that in his stillness and unwillingness to be bent by others he is quite strong. He also is always kind even when his situation is brutal, which she respects. 
 
@@ -85,11 +83,11 @@ We finally know what the first scene of the book was. Nuclear warfare, dandelion
 
 Lelache gets George to dream that Haber is benevolent, and that there are no aliens on the moon. This causes the aliens to come to Earth. 
 
-#### Chapter 8
+### Chapter 8
 
 Aliens are on Earth which is being destroyed by Air Force. Haber is benevolent and trying to get George to have a good dream where peace is on Earth. He inevitably has this dream but Haber can't even tell that he did and just thinks aliens were peaceful the whole time. 
 
-#### Chapter 9
+### Chapter 9
 
 George eliminates race at Haber's instruction. The new benevolent Haber is simply forthright, but isn't the noninterventionist that George wants him to be. It seems Heather has been erased. 
 
@@ -99,11 +97,11 @@ George speaks with an alien who gives him some vague fragmented English about be
 
 The messaging is somewhat mixed, George admits that Haber has actually improved the world, but he thinks Haber will make it worse as he goes for complete control. He is resolute that he will stop Haber. 
 
-#### Chapter 10
+### Chapter 10
 
 He has a dream where he brings Heather back, he then goes to see Haber. In this dream Haber removes his effective dreaming and gives it to himself. George tells Haber to use the alien dream word to make him a better man (okay with being a part of a whole). Haber obviously does not do this and destroys the planet. 
 
-#### Chapter 11
+### Chapter 11
 
 George lives in post-Break world and eventually finds Heather. He is resolute to win her over again. 
 
