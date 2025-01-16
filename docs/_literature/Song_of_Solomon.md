@@ -256,3 +256,18 @@ After they bury him Guitar shoots Pilate, presumably because he thinks they have
 ## Final Thoughts
 
 A great importance is placed on the value of names, true and false. Milkman's father obsessed over posessing land and possessing that which possessed as a love letter to his dead father. Pilate carried the bones of her past with her according to her interpretation of his word. Nothing is monumentally changed by Milkman's turn in character, but he learns the secret of flight by allowing the world in. 
+
+## Reoccuring Themes
+
+1. Major
+	1. The power of names
+		1. Pilate carrying her name in her earring
+		2. Macon spiting his father for his flippant selection of his family name
+		3. Milkman's name holding his mother's shame
+	2. Flight
+		1. As a measure of unity and harmony with nature
+2. Minor
+	1. Permanence of life
+
+## Points of Investigation
+
